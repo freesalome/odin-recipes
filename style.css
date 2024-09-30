@@ -1,0 +1,20 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.odin-recipes {
+    text-align: center;
+}
+.recipe-list {
+    font-weight: 200;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+.center h3 {
+    font-style: italic;
+}
+.left {
+    text-align: left;
+}
